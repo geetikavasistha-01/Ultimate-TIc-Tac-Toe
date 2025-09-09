@@ -1,6 +1,6 @@
 # Ultimate Tic Tac Toe
-<img width="724" height="749" alt="Screenshot 2025-09-09 at 5 30 27 PM" src="https://github.com/user-attachments/assets/9d547a3d-c8c1-46dd-91c6-172b1933c8af" />
-<img width="718" height="723" alt="Screenshot 2025-09-09 at 5 54 23 PM" src="https://github.com/user-attachments/assets/1261722d-4937-4e92-955c-1a22299c870b" />
+<img width="724" height="749" alt="Screenshot 2025-09-09 at 5 30 27 PM" src="https://github.com/user-attachments/assets/9d547a3d-c8c1-46dd-91c6-172b1933c8af" /> <img width="718" height="723" alt="Screenshot 2025-09-09 at 5 54 23 PM" src="https://github.com/user-attachments/assets/1261722d-4937-4e92-955c-1a22299c870b" />
+
 
 ## Overview
 Ultimate Tic Tac Toe is an advanced version of the classic Tic Tac Toe game. It features a large 9x9 grid composed of 81 smaller boxes grouped into 81 large boxes, each containing a traditional 3x3 Tic Tac Toe board. Players play on the small boards, and winning them strategically determines the overall winner.
